@@ -13,7 +13,7 @@
 - Create Sign up user account
 - Implement Sign In user API
 - Create user store with userSlice
-- Implemented Sign out
+- Implemented Sgn out
 - Update Profile
 
   #Features
