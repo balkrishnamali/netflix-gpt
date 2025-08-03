@@ -28,6 +28,12 @@
 - Update store with triloer video data
 - Embeded yutube video andmake it autoplay and mute
 - Tailwind classes to make main container look awesome
+- Build Secondary Component
+- Build Movie List
+- Build Movie Card
+- TMDB Image CDN URL
+- made browser page amazing using TAILWIND CSS
+- UsePopularMovies custom hooks
 
   #Features
 
