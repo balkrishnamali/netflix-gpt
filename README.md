@@ -15,6 +15,19 @@
 - Create user store with userSlice
 - Implemented Sgn out
 - Update Profile
+- BugFix: Signup user display name and profile picture update
+- BugFix: if the user is not logged in Redirect/browse to login page
+- Unsubscribed to the onAuthStateChange call back
+- Add hardcoded values in constant file.
+- Register for TMDB APi & Create an app & get access token
+- mske api call to get movies list
+- Custom Hook for Now Playing movie
+- Update Store with movie data
+- Planning for main and secondary contianer
+- Fetch data fotrailer video
+- Update store with triloer video data
+- Embeded yutube video andmake it autoplay and mute
+- Tailwind classes to make main container look awesome
 
   #Features
 
